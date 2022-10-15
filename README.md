@@ -1,19 +1,21 @@
 # My_SFML_Game_Programming
-SFML + OpenGL Game Programming
+SFML + OpenGL 프로그래밍 SFML + OpenGL Game Programming (SFML 2.5.1 Version SFML 2.5.1 버전)
 
-SFML 공식 문서
+IDE 개발 환경 : Code::blocks 20.03 Version
+
+SFML Doc SFML 공식 문서
 
 https://www.sfml-dev.org/documentation/2.5.1/index.php
 
 =========================================
 
-SFML - 다양한 언어 지원
+SFML - Support Various Programming Language 다양한 언어 지원
 
 https://www.sfml-dev.org/download/bindings.php
 
 =========================================
 
-SFML - 스프레드윙 G 스튜디오 티스토리
+SFML - Spread Wing G Studio Tistory 스프레드윙 G 스튜디오 티스토리
 
 https://spreadwing-gamestory.tistory.com/3
 
